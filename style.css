@@ -1,0 +1,115 @@
+
+
+h1
+ {
+	color: black;
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+	font-size: 60px; 
+	opacity: 0.9;
+	text-shadow: 1px 1px 1px white;
+
+}
+
+body {
+	font-family: arial; 
+	font-size: 30px;
+	font-family: 'Russo One', sans-serif;
+	color: #efef38; 
+	text-shadow: 1px 1px 1px black;
+	background-image: url('images/fond2.jpg');
+  margin: 0;
+}
+
+.header {
+	background-image: url('images/stade-noir-blanc.jpg');
+  background-size: cover; 
+  padding: 150px;
+  text-align: center;
+  margin-bottom: 90px;
+
+}
+
+.daccord {
+	text-align: center; 
+}
+
+.designez {
+	text-align: center;
+}
+
+.recompence {
+	text-align: center; 
+}
+
+.btn {
+    margin-top: 30px;
+    color: rgb(224, 216, 216);
+    background-color: rgba(202, 168, 66, 0);
+    border-color: rgba(202, 168, 66, 0);
+    font-size: 28px;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 0, 0.7); 
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.dropdown{
+	    padding-top: 13px;
+}
+
+.dropdown-menu{
+	color: black;
+}
+
+.btn:hover {
+      background-color: yellow;
+    border-color: rgba(155, 169, 48, 0.04);
+    color: black;
+
+}
+
+
+a {
+	color: yellow;
+	opacity: 1; 
+}
+
+a:hover {
+	color: yellow; 
+	opacity: 0.7;
+}
+
+
+.logo {
+	width: 260px;
+}
+
+.logo2 {
+  width: 81px;
+}
+
+.hand {
+
+width: 340px;
+
+}
+
+.image-arbitre {
+	width: 290px;
+}
+
+.image-dollars {
+	width: 290px;
+}
+
+.footer {
+  background-color: black;
+  opacity: 0.8;
+  text-align: center;
+  padding: 90px;
+  padding-bottom: 10px;
+  margin-top: 117px;
+}
